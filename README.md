@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 📫 How to reach me **sailikhithanekkalapu@gmail.com**
 
