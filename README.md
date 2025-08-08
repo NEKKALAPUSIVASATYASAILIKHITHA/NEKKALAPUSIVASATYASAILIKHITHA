@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NEKKALAPU SIVA SATYA SAI LIKHITHA</h1>
 <h3 align="center">Deep Learning Enthusiast | Driven by Data, Fueled by Curiosity</h3>
 
-- 🔭 I’m currently working on **LLM**
+
 
 - 🌱 I’m currently learning **Generative Ai**
 
